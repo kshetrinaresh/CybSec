@@ -1,6 +1,7 @@
 '''
 Function module name: compressECC.py
 Python module needed for ECC DHP implementation
+To be used with: EllipticCurve-DHP.py
 Module: 5 (Cryptography & PKI) by Dr. Naresh Kshetri
 '''
 

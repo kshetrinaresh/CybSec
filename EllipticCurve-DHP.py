@@ -2,7 +2,7 @@
 Elliptic curve cryptography Diffie-Hellman Protocol (ECDH) Implementation (in Python)
 Main file (main.py) or EllipticCurve-DHP.py, Key agreement algorithm
 Prereq: ECDHP, Cryptography techniques, & Python programming basics
-Other file needed for this program: N/A
+Other file needed for this program: 1 file, compressECC.py
 Module: 5 (Cryptography and PKI) by Dr. Naresh Kshetri
 '''
 
